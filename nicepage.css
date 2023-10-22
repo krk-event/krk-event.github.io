@@ -42304,7 +42304,6 @@ a.u-link.u-text-hover-grey-90:hover {
   .u-footer .u-text-1 {
     margin-top: 20px;
     width: 417px;
-    margin-bottom: initial;
   }
 }
 @media (max-width: 991px) {
@@ -42314,10 +42313,6 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-footer .u-image-1 {
     margin-top: 20px;
-  }
-
-  .u-footer .u-text-1 {
-    margin-bottom: 60px;
   }
 }
 @media (max-width: 767px) {
